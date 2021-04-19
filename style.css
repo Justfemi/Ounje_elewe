@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    width: 100%;
+}
+
+li {
+    list-style: none;
+    text-transform: uppercase;
+}
+
+header {
+    background-color: rgba(211, 105, 7, 0.3);
+    height: 700px;
+}
+
+.section {
+    height: 450px;
+}
+
+.section2 {
+    background-color: #D36907;
+    height: 700px;
+}
+
+.cards {
+    display: flex;
+}
+
+.section3 {
+    height: 450px;
+}
+
+.section4 {
+    background-color: #D36907;
+    height: 250px;
+}
+
+footer {
+    height: 250px;
+}
